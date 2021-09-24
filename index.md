@@ -6,7 +6,7 @@ Hello! My name is Lorenzo Mendes. Welcome to my user page!
   - [Music](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#music)
   - [Video Games](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#video-games)
   - [Programming Languages](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#programming-languages)
-  - [Ohers](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#others)
+  - [Others](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#others)
 - [Contact Me](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#contact-me)
 ## About Me
  I am a third year computer science major at UC San Diego. My family is from Rio de Janeiro, Brazil, but I was born in Los Angeles, California. 
@@ -80,7 +80,7 @@ if (goingToCrash){
   dont();
 }
 ```
-Also on this repo are pictures of my [favorite album cover](Images/Favorite_Album_Cover) and my [favorite sushi roll](Images/Favorite_Sushi_Roll).
+Also on this repo are pictures of my [favorite album cover](/tree/Images/Favorite_Album_Cover) and my [favorite sushi roll](/tree/Images/Favorite_Sushi_Roll).
 ## Contact Me
 Interested in working with me? Feel free to reach out to me by email at lmendes@ucsd.edu
 
