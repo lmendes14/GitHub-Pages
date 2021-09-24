@@ -80,7 +80,7 @@ if (goingToCrash){
   dont();
 }
 ```
-Also on this repo are pictures of my [favorite album cover](/tree/Images/Favorite_Album_Cover) and my [favorite sushi roll](/tree/Images/Favorite_Sushi_Roll).
+Also on this repo are pictures of my [favorite album cover](../../tree/Images/Favorite_Album_Cover) and my [favorite sushi roll](../../tree/Images/Favorite_Sushi_Roll).
 ## Contact Me
 Interested in working with me? Feel free to reach out to me by email at lmendes@ucsd.edu
 
