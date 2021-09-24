@@ -1,13 +1,13 @@
 # Lorenzo's User Page
 Hello! My name is Lorenzo Mendes. Welcome to my user page!
 ## Table of Contents
-- [About Me](https://github.com/lmendes14/GitHub-Pages/new/main#about-me)
-- [Favorites](https://github.com/lmendes14/GitHub-Pages/new/main#favorites)
-  - [Music](https://github.com/lmendes14/GitHub-Pages/new/main#music)
-  - [Video Games](https://github.com/lmendes14/GitHub-Pages/new/main#video-games)
-  - [Programming Languages](https://github.com/lmendes14/GitHub-Pages/new/main#programming-languages)
-  - [Ohers](https://github.com/lmendes14/GitHub-Pages/new/main#others)
-- [Contact Me](https://github.com/lmendes14/GitHub-Pages/new/main#contact-me)
+- [About Me](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#about-me)
+- [Favorites](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#favorites)
+  - [Music](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#music)
+  - [Video Games](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#video-games)
+  - [Programming Languages](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#programming-languages)
+  - [Ohers](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#others)
+- [Contact Me](https://github.com/lmendes14/GitHub-Pages/blob/main/index.md#contact-me)
 ## About Me
  I am a third year computer science major at UC San Diego. My family is from Rio de Janeiro, Brazil, but I was born in Los Angeles, California. 
  As a programmer, my interests include AI, image classification, natural language processing, and more.
