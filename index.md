@@ -1,5 +1,5 @@
 # Lorenzo's User Page
-Hello! My name is Lorenzo Mendes. Welcome to my user page!
+Hello! My name is **Lorenzo Mendes**. Welcome to my user page!
 ## Table of Contents
 - [About Me](https://lmendes14.github.io/GitHub-Pages/#about-me)
 - [Favorites](https://lmendes14.github.io/GitHub-Pages/#favorites)
@@ -17,11 +17,11 @@ Hello! My name is Lorenzo Mendes. Welcome to my user page!
  - Music
  - Programming
 
- This is a picture of me from 2019:
+ **This is a picture of me from _2019_**:
  
  ![Grad Photo](https://user-images.githubusercontent.com/64934250/134736747-62dd8f7e-d7f5-4ad7-aa4b-a62e29dc6671.jpg)
  
- I'm currently working on a project that predicts musical genres based on album covers using image classification. 
+ I'm currently working on a project that predicts musical genres based on album covers using different image classification techniques such as both knn and linear classifiers as well as deep learning. 
  Everything I learned for the project is from Stanford's [cs231n](http://cs231n.stanford.edu/). The repo is located on my GitHub account. 
  Here is my current work flow for the project:
  - [x] Scrape web to collect album covers along with their associated musical genres
@@ -32,8 +32,8 @@ Hello! My name is Lorenzo Mendes. Welcome to my user page!
  
 ## Favorites
 
-Here are some lists of some of my favorite things. Note that these lists detail my favore things ***as of writing this page***; 
-I tend to flip between liking and disliking things fairly often.
+Here are some lists of some of my favorite things. Note that these lists detail my favorite things ***as of writing this page***; 
+I tend to flip between liking and disliking things ~~pretty~~ often.
 
 ### Music
 Artists:
